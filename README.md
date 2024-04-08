@@ -1,6 +1,3 @@
-# modul-318-Student
+# Fahrplan-Applikation
 
-Students!
-Fork this repository to your own Github account. Work there with this repository. The intructor will clone your repo for inspection and evaluation.
-
-Have Fun!
+To run the application, download the zip file from the GitHub repository and execute the file "Fahrplan\bin\Debug\Fahrplan.exe".
